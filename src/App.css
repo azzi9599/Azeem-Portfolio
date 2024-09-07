@@ -1,0 +1,14 @@
+.kalam-regular {
+    font-family: "Kalam", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .kalam-regular {
+  font-family: "Kalam", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+html{
+  scroll-behavior: smooth;
+  
+}
